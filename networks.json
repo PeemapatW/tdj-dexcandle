@@ -1,0 +1,11 @@
+{
+  "fuji": {
+    "JoeFactory": {
+      "address": "0xF5c7d9733e5f53abCC1695820c4818C59B457C2C",
+      "startBlock": 10220115
+    },
+    "JoePair": {
+      "address": "0x6eBE57Aa70c7b8cB54d01C365Fd6dfe777f7667f"
+    }
+  }
+}
